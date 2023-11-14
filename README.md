@@ -24,8 +24,8 @@
 ![281947801-fdca2e60-2f52-4635-ba5e-db434969957b](https://github.com/Sudharsanram/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119393980/084c1a5c-351f-438a-9210-cb7220a65fe7)
 
 
-### Name: SUDHARSAN RAM M
-### Register Number: 212222110048
+### Name: Migal G Arunadann
+### Register Number: 212222110025
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
